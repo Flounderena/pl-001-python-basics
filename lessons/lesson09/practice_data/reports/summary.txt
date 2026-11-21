@@ -1,0 +1,3 @@
+Total: 42
+Errors: 0
+Warnings: 3
